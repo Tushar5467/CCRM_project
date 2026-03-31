@@ -217,9 +217,8 @@ java -ea -cp src edu.ccrm.cli.CCRMApplication
 - `version_check.png` - JDK installation verification
 - <img width="1040" height="241" alt="image" src="https://github.com/nabakrishna/CCRM/blob/main/Screensort/version_check.png" />
 
-  
-- `CCRM_structure.png` - Project Structure
-- <img width="486" height="607" alt="image" src="https://github.com/nabakrishna/CCRM/blob/main/Screensort/CCRM_structure.png" />
+- `CCRM_structure.jpg` - Project Structure
+- <img width="486" height="607" alt="image" src="Screensort/CCRM_structure.jpg" />
 
 
 - `CCRM_addstudent.png` - Student operations demo
