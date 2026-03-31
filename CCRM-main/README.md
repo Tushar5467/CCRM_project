@@ -214,9 +214,8 @@ java -ea -cp src edu.ccrm.cli.CCRMApplication
 ## Screenshots
 
 📸 **Screenshot Directory**: `/screenshots/`
-- `version_check.png` - JDK installation verification
-- <img width="1040" height="241" alt="image" src="https://github.com/nabakrishna/CCRM/blob/main/Screensort/version_check.png" />
-
+- `version_check.jpg` - JDK installation verification
+- <img width="1040" height="241" alt="image" src="Screensort/version_check.jpg" />
 - `CCRM_structure.jpg` - Project Structure
 - <img width="486" height="607" alt="image" src="Screensort/CCRM_structure.jpg" />
 
@@ -311,6 +310,6 @@ public class DuplicateEnrollmentException extends RuntimeException {
 
 ---
 
-**Project Completed**: September 2025  
-**Academic Session**: Semester 3, I. Mtech, CSE(CDS) 
+**Project Completed**: March 31, 2026  
+**Academic Session**: Semester 5, Btech CSE (AI ML)
 **Institution**: Vellore Institute of Technology Bhopal (VITB)
